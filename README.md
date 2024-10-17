@@ -27,4 +27,12 @@ Contains source code of solutions of leetcode problems, I have submitted
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/sensoubhiknitdgp/leetcode/tree/master/0547-number-of-provinces) |
+## Array
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sensoubhik11/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sensoubhik11/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
