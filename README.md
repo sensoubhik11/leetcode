@@ -30,6 +30,7 @@ Contains source code of solutions of leetcode problems, I have submitted
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sensoubhik11/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sensoubhik11/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/sensoubhik11/leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/sensoubhik11/leetcode/tree/master/0189-rotate-array) |
@@ -44,6 +45,7 @@ Contains source code of solutions of leetcode problems, I have submitted
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sensoubhik11/leetcode/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/sensoubhik11/leetcode/tree/master/0268-missing-number) |
 ## Math
 |  |
