@@ -22,6 +22,7 @@ Contains source code of solutions of leetcode problems, I have submitted
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/sensoubhik11/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/sensoubhiknitdgp/leetcode/tree/master/0547-number-of-provinces) |
 ## Graph
 |  |
@@ -34,6 +35,7 @@ Contains source code of solutions of leetcode problems, I have submitted
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sensoubhik11/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/sensoubhik11/leetcode/tree/master/0031-next-permutation) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sensoubhik11/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/sensoubhik11/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/sensoubhik11/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/sensoubhik11/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sensoubhik11/leetcode/tree/master/0189-rotate-array) |
@@ -53,6 +55,7 @@ Contains source code of solutions of leetcode problems, I have submitted
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sensoubhik11/leetcode/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/sensoubhik11/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/sensoubhik11/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/sensoubhik11/leetcode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/sensoubhik11/leetcode/tree/master/0560-subarray-sum-equals-k) |
