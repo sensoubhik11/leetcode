@@ -34,6 +34,7 @@ Contains source code of solutions of leetcode problems, I have submitted
 | [0001-two-sum](https://github.com/sensoubhik11/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sensoubhik11/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/sensoubhik11/leetcode/tree/master/0031-next-permutation) |
+| [0073-set-matrix-zeroes](https://github.com/sensoubhik11/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sensoubhik11/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/sensoubhik11/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/sensoubhik11/leetcode/tree/master/0136-single-number) |
@@ -55,6 +56,7 @@ Contains source code of solutions of leetcode problems, I have submitted
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sensoubhik11/leetcode/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/sensoubhik11/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/sensoubhik11/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/sensoubhik11/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/sensoubhik11/leetcode/tree/master/0268-missing-number) |
@@ -98,4 +100,8 @@ Contains source code of solutions of leetcode problems, I have submitted
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sensoubhik11/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/sensoubhik11/leetcode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
