@@ -11,6 +11,7 @@ Contains source code of solutions of leetcode problems, I have submitted
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sensoubhiknitdgp/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/sensoubhik11/leetcode/tree/master/0050-powx-n) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -64,6 +65,7 @@ Contains source code of solutions of leetcode problems, I have submitted
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/sensoubhik11/leetcode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/sensoubhik11/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/sensoubhik11/leetcode/tree/master/0268-missing-number) |
 ## Binary Search
