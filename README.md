@@ -101,6 +101,7 @@ Contains source code of solutions of leetcode problems, I have submitted
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sensoubhik11/leetcode/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sensoubhik11/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Simulation
 |  |
@@ -114,8 +115,10 @@ Contains source code of solutions of leetcode problems, I have submitted
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/sensoubhik11/leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0022-generate-parentheses](https://github.com/sensoubhik11/leetcode/tree/master/0022-generate-parentheses) |
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sensoubhik11/leetcode/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/sensoubhik11/leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
