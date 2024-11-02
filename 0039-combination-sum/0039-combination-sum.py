@@ -5,7 +5,7 @@ class Solution:
             if target == 0:
                 res.append(ds[:])
                 return
-            if idx == len(candidates):
+            elif idx == len(candidates):
                 return
             
             if candidates[idx] <= target:
