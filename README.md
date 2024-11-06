@@ -16,10 +16,12 @@ Contains source code of solutions of leetcode problems, I have submitted
 ## Depth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/sensoubhik11/leetcode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/sensoubhiknitdgp/leetcode/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/sensoubhik11/leetcode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/sensoubhiknitdgp/leetcode/tree/master/0547-number-of-provinces) |
 ## Union Find
 |  |
@@ -29,6 +31,7 @@ Contains source code of solutions of leetcode problems, I have submitted
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/sensoubhik11/leetcode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/sensoubhiknitdgp/leetcode/tree/master/0547-number-of-provinces) |
 ## Array
 |  |
@@ -130,4 +133,8 @@ Contains source code of solutions of leetcode problems, I have submitted
 | [0078-subsets](https://github.com/sensoubhik11/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sensoubhik11/leetcode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/sensoubhik11/leetcode/tree/master/0216-combination-sum-iii) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/sensoubhik11/leetcode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
