@@ -1,27 +1,17 @@
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
-        n = numCourses
-        mat = [[0]*n for _ in range(n)]
-
-        for row in prerequisites:
-            mat[row[1]][row[0]] = 1
-        flag = True
-        def dfs_visit(i, tags):
-            nonlocal flag
-            tags[i] = 1
-            for j in range(n):
-                if mat[i][j]:
-                    if tags[j] == 0:
-                        dfs_visit(j, tags)
-                    elif tags[j] == 1:
-                        flag = False
-                        break
-            tags[i] = 2
-
-        def dfs(n):
-            tags = [0]*n
-            for i in range(n):
-                if tags[i] == 0:
-                    dfs_visit(i,tags)
-        dfs(n)
-        return flag
+        indeg = [0]*numCourses
+        adj_list = defaultdict(list)
+        for a, b in prerequisites:
+            adj_list[b].append(a)
+            indeg[a] += 1
+        queue = deque([i for i,v in enumerate(indeg) if v == 0])
+        cnt = 0
+        while queue:
+            u = queue.popleft()
+            cnt += 1
+            for v in adj_list[u]:
+                indeg[v] -= 1
+                if indeg[v] == 0:
+                    queue.append(v)
+        return cnt == numCourses
