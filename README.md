@@ -92,6 +92,7 @@ Contains source code of solutions of leetcode problems, I have submitted
 | [0090-subsets-ii](https://github.com/sensoubhik11/leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/sensoubhik11/leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/sensoubhik11/leetcode/tree/master/0268-missing-number) |
+| [3394-minimum-array-end](https://github.com/sensoubhik11/leetcode/tree/master/3394-minimum-array-end) |
 ## Sorting
 |  |
 | ------- |
