@@ -127,6 +127,7 @@ Contains source code of solutions of leetcode problems, I have submitted
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/sensoubhik11/leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0020-valid-parentheses](https://github.com/sensoubhik11/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sensoubhik11/leetcode/tree/master/0022-generate-parentheses) |
 ## Backtracking
 |  |
@@ -142,4 +143,8 @@ Contains source code of solutions of leetcode problems, I have submitted
 | ------- |
 | [0207-course-schedule](https://github.com/sensoubhik11/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sensoubhik11/leetcode/tree/master/0210-course-schedule-ii) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/sensoubhik11/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
