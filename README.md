@@ -62,6 +62,7 @@ Contains source code of solutions of leetcode problems, I have submitted
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sensoubhik11/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/sensoubhik11/leetcode/tree/master/0031-next-permutation) |
+| [0125-valid-palindrome](https://github.com/sensoubhik11/leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/sensoubhik11/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sensoubhik11/leetcode/tree/master/0283-move-zeroes) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sensoubhik11/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -129,6 +130,7 @@ Contains source code of solutions of leetcode problems, I have submitted
 | [0008-string-to-integer-atoi](https://github.com/sensoubhik11/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/sensoubhik11/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sensoubhik11/leetcode/tree/master/0022-generate-parentheses) |
+| [0125-valid-palindrome](https://github.com/sensoubhik11/leetcode/tree/master/0125-valid-palindrome) |
 ## Backtracking
 |  |
 | ------- |
