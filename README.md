@@ -17,6 +17,7 @@ Contains source code of solutions of leetcode problems, I have submitted
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/sensoubhik11/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0207-course-schedule](https://github.com/sensoubhik11/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sensoubhik11/leetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/sensoubhik11/leetcode/tree/master/0226-invert-binary-tree) |
@@ -24,6 +25,7 @@ Contains source code of solutions of leetcode problems, I have submitted
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/sensoubhik11/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0207-course-schedule](https://github.com/sensoubhik11/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sensoubhik11/leetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/sensoubhik11/leetcode/tree/master/0226-invert-binary-tree) |
@@ -162,9 +164,11 @@ Contains source code of solutions of leetcode problems, I have submitted
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/sensoubhik11/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/sensoubhik11/leetcode/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/sensoubhik11/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/sensoubhik11/leetcode/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
