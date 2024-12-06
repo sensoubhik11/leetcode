@@ -75,6 +75,7 @@ Contains source code of solutions of leetcode problems, I have submitted
 | [0073-set-matrix-zeroes](https://github.com/sensoubhik11/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/sensoubhik11/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/sensoubhik11/leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/sensoubhik11/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sensoubhik11/leetcode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/sensoubhik11/leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Math
@@ -100,6 +101,7 @@ Contains source code of solutions of leetcode problems, I have submitted
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sensoubhik11/leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/sensoubhik11/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sensoubhik11/leetcode/tree/master/0268-missing-number) |
 ## Prefix Sum
 |  |
@@ -133,6 +135,7 @@ Contains source code of solutions of leetcode problems, I have submitted
 | [0020-valid-parentheses](https://github.com/sensoubhik11/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sensoubhik11/leetcode/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/sensoubhik11/leetcode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/sensoubhik11/leetcode/tree/master/0242-valid-anagram) |
 ## Backtracking
 |  |
 | ------- |
