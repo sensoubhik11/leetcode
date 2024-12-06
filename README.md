@@ -8,11 +8,13 @@ Contains source code of solutions of leetcode problems, I have submitted
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sensoubhiknitdgp/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/sensoubhik11/leetcode/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/sensoubhik11/leetcode/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sensoubhiknitdgp/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/sensoubhik11/leetcode/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/sensoubhik11/leetcode/tree/master/0206-reverse-linked-list) |
 | [2050-count-good-numbers](https://github.com/sensoubhik11/leetcode/tree/master/2050-count-good-numbers) |
 ## Depth-First Search
 |  |
