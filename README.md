@@ -18,12 +18,14 @@ Contains source code of solutions of leetcode problems, I have submitted
 | ------- |
 | [0207-course-schedule](https://github.com/sensoubhik11/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sensoubhik11/leetcode/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/sensoubhik11/leetcode/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/sensoubhiknitdgp/leetcode/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/sensoubhik11/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sensoubhik11/leetcode/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/sensoubhik11/leetcode/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/sensoubhiknitdgp/leetcode/tree/master/0547-number-of-provinces) |
 ## Union Find
 |  |
@@ -149,4 +151,12 @@ Contains source code of solutions of leetcode problems, I have submitted
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sensoubhik11/leetcode/tree/master/0020-valid-parentheses) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/sensoubhik11/leetcode/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/sensoubhik11/leetcode/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
