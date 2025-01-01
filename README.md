@@ -54,6 +54,7 @@ Contains source code of solutions of leetcode problems, I have submitted
 | [0073-set-matrix-zeroes](https://github.com/sensoubhik11/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/sensoubhik11/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sensoubhik11/leetcode/tree/master/0090-subsets-ii) |
+| [0118-pascals-triangle](https://github.com/sensoubhik11/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sensoubhik11/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/sensoubhik11/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/sensoubhik11/leetcode/tree/master/0136-single-number) |
@@ -128,6 +129,7 @@ Contains source code of solutions of leetcode problems, I have submitted
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sensoubhik11/leetcode/tree/master/0022-generate-parentheses) |
+| [0118-pascals-triangle](https://github.com/sensoubhik11/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sensoubhik11/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Simulation
 |  |
