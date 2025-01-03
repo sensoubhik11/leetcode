@@ -51,6 +51,7 @@ Contains source code of solutions of leetcode problems, I have submitted
 | [0031-next-permutation](https://github.com/sensoubhik11/leetcode/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/sensoubhik11/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sensoubhik11/leetcode/tree/master/0040-combination-sum-ii) |
+| [0048-rotate-image](https://github.com/sensoubhik11/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/sensoubhik11/leetcode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/sensoubhik11/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/sensoubhik11/leetcode/tree/master/0075-sort-colors) |
@@ -93,6 +94,7 @@ Contains source code of solutions of leetcode problems, I have submitted
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/sensoubhik11/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/sensoubhik11/leetcode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/sensoubhik11/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/sensoubhik11/leetcode/tree/master/0268-missing-number) |
@@ -144,6 +146,7 @@ Contains source code of solutions of leetcode problems, I have submitted
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/sensoubhik11/leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/sensoubhik11/leetcode/tree/master/0073-set-matrix-zeroes) |
 ## String
 |  |
