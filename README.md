@@ -53,6 +53,7 @@ Contains source code of solutions of leetcode problems, I have submitted
 | [0040-combination-sum-ii](https://github.com/sensoubhik11/leetcode/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/sensoubhik11/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/sensoubhik11/leetcode/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/sensoubhik11/leetcode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/sensoubhik11/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/sensoubhik11/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/sensoubhik11/leetcode/tree/master/0078-subsets) |
@@ -115,6 +116,7 @@ Contains source code of solutions of leetcode problems, I have submitted
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/sensoubhik11/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/sensoubhik11/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/sensoubhik11/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/sensoubhik11/leetcode/tree/master/0242-valid-anagram) |
