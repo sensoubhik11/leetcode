@@ -68,6 +68,7 @@ Contains source code of solutions of leetcode problems, I have submitted
 | [0216-combination-sum-iii](https://github.com/sensoubhik11/leetcode/tree/master/0216-combination-sum-iii) |
 | [0268-missing-number](https://github.com/sensoubhik11/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sensoubhik11/leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/sensoubhik11/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/sensoubhik11/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/sensoubhik11/leetcode/tree/master/0792-binary-search) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sensoubhik11/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -82,6 +83,7 @@ Contains source code of solutions of leetcode problems, I have submitted
 | [0141-linked-list-cycle](https://github.com/sensoubhik11/leetcode/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/sensoubhik11/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sensoubhik11/leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/sensoubhik11/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sensoubhik11/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -106,6 +108,7 @@ Contains source code of solutions of leetcode problems, I have submitted
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/sensoubhik11/leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/sensoubhik11/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/sensoubhik11/leetcode/tree/master/0792-binary-search) |
 ## Bit Manipulation
 |  |
@@ -114,6 +117,7 @@ Contains source code of solutions of leetcode problems, I have submitted
 | [0090-subsets-ii](https://github.com/sensoubhik11/leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/sensoubhik11/leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/sensoubhik11/leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/sensoubhik11/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [3394-minimum-array-end](https://github.com/sensoubhik11/leetcode/tree/master/3394-minimum-array-end) |
 ## Sorting
 |  |
