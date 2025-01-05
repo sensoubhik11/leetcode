@@ -72,6 +72,7 @@ Contains source code of solutions of leetcode problems, I have submitted
 | [0560-subarray-sum-equals-k](https://github.com/sensoubhik11/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/sensoubhik11/leetcode/tree/master/0792-binary-search) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sensoubhik11/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3227-find-missing-and-repeated-values](https://github.com/sensoubhik11/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -96,6 +97,7 @@ Contains source code of solutions of leetcode problems, I have submitted
 | [0242-valid-anagram](https://github.com/sensoubhik11/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sensoubhik11/leetcode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/sensoubhik11/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [3227-find-missing-and-repeated-values](https://github.com/sensoubhik11/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Math
 |  |
 | ------- |
@@ -104,6 +106,7 @@ Contains source code of solutions of leetcode problems, I have submitted
 | [0189-rotate-array](https://github.com/sensoubhik11/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/sensoubhik11/leetcode/tree/master/0268-missing-number) |
 | [2050-count-good-numbers](https://github.com/sensoubhik11/leetcode/tree/master/2050-count-good-numbers) |
+| [3227-find-missing-and-repeated-values](https://github.com/sensoubhik11/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
 | ------- |
@@ -157,6 +160,7 @@ Contains source code of solutions of leetcode problems, I have submitted
 | ------- |
 | [0048-rotate-image](https://github.com/sensoubhik11/leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/sensoubhik11/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [3227-find-missing-and-repeated-values](https://github.com/sensoubhik11/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## String
 |  |
 | ------- |
