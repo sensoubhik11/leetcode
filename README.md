@@ -69,6 +69,7 @@ Contains source code of solutions of leetcode problems, I have submitted
 | [0268-missing-number](https://github.com/sensoubhik11/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sensoubhik11/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sensoubhik11/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0493-reverse-pairs](https://github.com/sensoubhik11/leetcode/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/sensoubhik11/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/sensoubhik11/leetcode/tree/master/0792-binary-search) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sensoubhik11/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -112,6 +113,7 @@ Contains source code of solutions of leetcode problems, I have submitted
 | ------- |
 | [0268-missing-number](https://github.com/sensoubhik11/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sensoubhik11/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0493-reverse-pairs](https://github.com/sensoubhik11/leetcode/tree/master/0493-reverse-pairs) |
 | [0792-binary-search](https://github.com/sensoubhik11/leetcode/tree/master/0792-binary-search) |
 ## Bit Manipulation
 |  |
@@ -140,6 +142,7 @@ Contains source code of solutions of leetcode problems, I have submitted
 | ------- |
 | [0053-maximum-subarray](https://github.com/sensoubhik11/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/sensoubhik11/leetcode/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/sensoubhik11/leetcode/tree/master/0493-reverse-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -197,4 +200,20 @@ Contains source code of solutions of leetcode problems, I have submitted
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sensoubhik11/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/sensoubhik11/leetcode/tree/master/0226-invert-binary-tree) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/sensoubhik11/leetcode/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/sensoubhik11/leetcode/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/sensoubhik11/leetcode/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/sensoubhik11/leetcode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
