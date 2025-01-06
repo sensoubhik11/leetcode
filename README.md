@@ -55,6 +55,7 @@ Contains source code of solutions of leetcode problems, I have submitted
 | [0053-maximum-subarray](https://github.com/sensoubhik11/leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/sensoubhik11/leetcode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/sensoubhik11/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/sensoubhik11/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/sensoubhik11/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/sensoubhik11/leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/sensoubhik11/leetcode/tree/master/0088-merge-sorted-array) |
@@ -111,6 +112,7 @@ Contains source code of solutions of leetcode problems, I have submitted
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/sensoubhik11/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/sensoubhik11/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sensoubhik11/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/sensoubhik11/leetcode/tree/master/0493-reverse-pairs) |
@@ -163,6 +165,7 @@ Contains source code of solutions of leetcode problems, I have submitted
 | ------- |
 | [0048-rotate-image](https://github.com/sensoubhik11/leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/sensoubhik11/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/sensoubhik11/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [3227-find-missing-and-repeated-values](https://github.com/sensoubhik11/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## String
 |  |
